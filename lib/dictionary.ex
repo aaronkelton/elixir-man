@@ -13,6 +13,6 @@ defmodule Dictionary do
 
   """
   def hello do
-    :world
+    IO.puts("Hello Dallas!")
   end
 end
